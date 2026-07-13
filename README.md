@@ -1,6 +1,6 @@
 # Machine Learning
 
-This repository contains my hands-on implementations, notes, and exercises completed while learning Machine Learning through the **Machine Learning A-Z™** Udemy course by **Kirill Eremenko**.
+This repository contains my hands-on implementations, notes, and exercises completed while learning Machine Learning 
 
 ## Course Progress
 
