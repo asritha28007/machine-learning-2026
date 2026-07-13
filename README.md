@@ -33,6 +33,11 @@ Studied and implemented model selection techniques, including:
 * Adjusted R²
 * Choosing the Best Regression Model
 
+
+### Part 3: Classification (Sections 14-)
+* Logistic Regression
+
+  
 ## Technologies Used
 
 * Python
