@@ -33,6 +33,7 @@ Studied and implemented model selection techniques, including:
 * Adjusted R²
 * Choosing the Best Regression Model
 
+https://www.superdatascience.com/blogs/the-ultimate-guide-to-regression-classification (for all the pdfs)
 
 ### Part 3: Classification (Sections 14-)
 * Logistic Regression
