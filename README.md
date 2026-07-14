@@ -35,8 +35,9 @@ Studied and implemented model selection techniques, including:
 
 https://www.superdatascience.com/blogs/the-ultimate-guide-to-regression-classification (for all the pdfs)
 
-### Part 3: Classification (Sections 14-)
+### Part 3: Classification (Sections 14,15,)
 * Logistic Regression
+* KNN 
 
   
 ## Technologies Used
@@ -47,4 +48,5 @@ https://www.superdatascience.com/blogs/the-ultimate-guide-to-regression-classifi
 * Matplotlib
 * Scikit-learn
 * Google Colab
+* JupyterNotebook
 
